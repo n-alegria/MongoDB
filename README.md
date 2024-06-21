@@ -6,3 +6,10 @@
 - A single instance of MongoDB can host multiple independent databases, each of which can have its own collections.
 - Every document has a special key, "_id", that is unique within a collection.
 - MongoDB comes with a simple but powerful JavaScript shell, which is useful for the administration of MongoDB instances and data manipulation.
+
+| Book | URL |
+| ------ | ------ |
+| MongoDB - The Definitive Guide (2nd-Edition) | [Link][MDB2nd] |
+| MongoDB In Action | [Link][MDBA] |
+[MDB2nd]: <https://pepa.holla.cz/wp-content/uploads/2016/07/MongoDB-The-Definitive-Guide-2nd-Edition.pdf>
+[MDBA]: <https://pepa.holla.cz/wp-content/uploads/2016/07/MongoDB-in-Action-2nd-Edition.pdf>
