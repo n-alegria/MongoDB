@@ -9,5 +9,5 @@
 
 | Book | URL |
 | ------ | ------ |
-| MongoDB - The Definitive Guide (2nd-Edition) | [Link]([https://www.google.com](https://pepa.holla.cz/wp-content/uploads/2016/07/MongoDB-The-Definitive-Guide-2nd-Edition.pdf))|
+| MongoDB - The Definitive Guide (2nd-Edition) | [Link](https://pepa.holla.cz/wp-content/uploads/2016/07/MongoDB-The-Definitive-Guide-2nd-Edition.pdf))|
 | MongoDB In Action | [Link](https://pepa.holla.cz/wp-content/uploads/2016/07/MongoDB-in-Action-2nd-Edition.pdf) |
